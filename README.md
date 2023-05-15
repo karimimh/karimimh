@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @karimimh
-- 👀 I’m interested in Machine-Learning, Python, Javascript and Go programming languages.
-- 🌱 I’m currently learning Django and React.
+- 👀 I’m interested in Python, Javascript and Machine-Learning.
 - 💞️ I’m looking to collaborate on Machine learning and Python projects.
 - 📫 How to reach me: mhkarimiwork@gmail.com
 
