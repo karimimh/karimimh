@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @karimimh
-- 👀 I’m interested in Python, Javascript and Machine-Learning.
-- 💞️ I’m looking to collaborate on Machine learning and Python projects.
-- 📫 How to reach me: mhkarimiwork@gmail.com
+👋 Hi, I’m Mohammad Hossein Karimi.
 
-<!---
-karimimh/karimimh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m interested in React.JS, Django, Angular and ReactNative. I am very confident in my React.JS skills.
+How to reach me: mhkarimiu@gmail.com
